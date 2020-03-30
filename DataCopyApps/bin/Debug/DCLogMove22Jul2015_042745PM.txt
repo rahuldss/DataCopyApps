@@ -1,0 +1,5 @@
+Start at : 22-Jul-15 4:23:44 PM - End at : 22-Jul-15 4:26:48 PM - Aborted at : 22-Jul-15 4:27:45 PM
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Aarti Roka\P201111_16.58_[01].jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Aarti Roka\P201111_16.58_[01].jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Aarti Roka\P201111_17.00_[01].jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Aarti Roka\P201111_17.00_[01].jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Aarti Roka\P201111_17.02_[01].jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Aarti Roka\P201111_17.02_[01].jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Aarti Roka\P201111_17.11.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Aarti Roka\P201111_17.11.jpg

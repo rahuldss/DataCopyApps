@@ -1,0 +1,5 @@
+Start at : 22-Jul-15 4:29:11 PM - End at : 22-Jul-15 4:29:16 PM
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Abhi\IMG0495A.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Abhi\IMG0495A.jpg
+DELETED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Abhi\IMG0495A.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Abhi\IMG0496A.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Abhi\IMG0496A.jpg
+DELETED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Abhi\IMG0496A.jpg

@@ -1,0 +1,8 @@
+Start at : 31/05/2014 5:27:45 PM - Aborted at : 31/05/2014 6:50:37 PM
+Access to the path 'D:\Narender\All_DataBases\2005\Intranet\Intranet.mdf' is denied.
+IO $ The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.
+Object reference not set to an instance of an object.
+IO $ The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.
+Object reference not set to an instance of an object.
+IO $ The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.
+Object reference not set to an instance of an object.

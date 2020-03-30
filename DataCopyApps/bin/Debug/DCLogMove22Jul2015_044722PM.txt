@@ -1,0 +1,314 @@
+Start at : 22-Jul-15 4:33:26 PM - End at : 22-Jul-15 4:47:22 PM
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\15012012(001).jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\15012012(001).jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\15012012.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\15012012.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-14 22.21.58.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-14 22.21.58.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-14 22.23.00.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-14 22.23.00.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-14 22.23.14.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-14 22.23.14.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-14 22.23.32.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-14 22.23.32.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 09.53.34.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 09.53.34.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 09.53.46.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 09.53.46.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.09.43.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.09.43.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.12.23.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.12.23.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.12.40.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.12.40.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.13.30.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.13.30.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.14.05.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.14.05.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.20.13.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.20.13.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.20.28.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.20.28.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.20.43.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.20.43.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.20.52.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.20.52.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.21.02.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.21.02.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.21.31.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.21.31.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.22.05.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.22.05.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.55.14.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.55.14.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.55.30.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.55.30.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.55.40.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.55.40.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.56.06.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.56.06.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.56.29.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.56.29.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.56.36.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.56.36.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 12.57.09.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 12.57.09.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 13.01.47.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 13.01.47.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 13.11.05.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 13.11.05.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 13.11.09.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 13.11.09.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 13.12.31.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 13.12.31.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 13.12.40.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 13.12.40.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\2012-01-15 13.12.52.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\2012-01-15 13.12.52.jpg
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4617.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4617.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4618.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4618.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4619.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4619.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4620.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4620.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4621.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4621.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4622.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4622.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4623.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4623.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4624.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4624.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4625.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4625.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4626.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4626.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4627.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4627.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4628.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4628.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4629.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4629.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4630.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4630.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4631.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4631.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4632.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4632.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4633.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4633.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4634.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4634.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4635.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4635.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4636.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4636.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4637.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4637.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4638.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4638.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4639.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4639.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4640.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4640.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4641.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4641.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4642.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4642.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4643.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4643.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4644.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4644.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4645.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4645.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4646.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4646.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4647.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4647.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4648.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4648.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4649.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4649.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4650.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4650.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4651.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4651.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4652.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4652.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4653.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4653.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4654.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4654.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4655.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4655.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4656.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4656.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4657.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4657.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4658.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4658.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4659.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4659.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4660.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4660.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4661.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4661.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4662.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4662.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4663.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4663.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4664.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4664.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4665.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4665.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4666.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4666.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4667.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4667.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4668.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4668.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4669.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4669.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4670.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4670.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4671.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4671.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4672.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4672.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4673.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4673.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4674.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4674.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4675.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4675.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4676.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4676.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4677.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4677.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4678.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4678.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4679.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4679.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4680.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4680.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4681.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4681.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4682.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4682.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4683.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4683.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4684.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4684.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4685.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4685.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4686.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4686.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4687.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4687.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4688.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4688.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4689.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4689.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4690.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4690.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4691.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4691.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4693.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4693.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4694.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4694.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4695.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4695.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4696.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4696.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4697.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4697.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4698.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4698.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4699.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4699.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4700.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4700.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4701.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4701.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4702.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4702.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4703.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4703.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4704.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4704.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4705.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4705.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4706.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4706.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4707.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4707.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4708.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4708.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4709.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4709.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4710.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4710.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4711.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4711.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4712.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4712.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4713.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4713.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4714.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4714.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4715.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4715.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4716.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4716.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4717.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4717.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4718.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4718.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4719.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4719.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4720.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4720.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4721.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4721.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4722.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4722.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4723.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4723.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4724.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4724.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4725.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4725.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4726.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4726.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4727.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4727.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4728.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4728.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4729.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4729.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4730.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4730.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4731.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4731.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4732.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4732.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4733.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4733.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4734.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4734.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4735.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4735.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4736.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4736.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4737.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4737.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4738.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4738.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4739.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4739.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4740.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4740.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4741.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4741.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4742.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4742.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4743.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4743.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4744.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4744.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4745.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4745.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4746.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4746.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4747.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4747.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4748.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4748.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4749.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4749.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4750.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4750.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4751.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4751.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4752.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4752.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4753.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4753.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4754.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4754.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4755.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4755.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4756.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4756.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4757.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4757.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4758.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4758.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4759.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4759.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4760.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4760.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4761.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4761.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4762.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4762.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4763.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4763.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4764.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4764.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4765.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4765.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4766.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4766.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4767.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4767.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4768.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4768.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4769.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4769.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4770.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4770.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4771.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4771.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4772.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4772.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4773.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4773.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4774.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4774.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4775.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4775.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4776.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4776.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4777.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4777.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4778.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4778.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4779.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4779.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4780.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4780.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4781.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4781.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4782.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4782.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4783.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4783.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4784.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4784.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4785.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4785.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4786.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4786.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4787.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4787.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4788.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4788.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4789.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4789.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4790.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4790.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4791.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4791.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4792.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4792.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4793.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4793.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4794.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4794.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4795.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4795.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4796.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4796.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4797.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4797.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4798.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4798.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4799.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4799.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4800.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4800.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4801.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4801.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4802.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4802.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4803.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4803.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4804.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4804.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4805.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4805.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4806.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4806.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4807.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4807.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4808.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4808.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4809.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4809.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4810.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4810.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4811.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4811.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4812.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4812.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4813.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4813.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4814.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4814.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4815.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4815.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4816.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4816.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4817.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4817.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4818.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4818.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4819.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4819.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4820.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4820.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4821.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4821.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4822.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4822.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4823.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4823.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4824.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4824.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4825.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4825.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4826.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4826.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4827.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4827.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4828.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4828.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4829.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4829.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4830.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4830.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4831.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4831.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4832.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4832.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4833.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4833.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4834.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4834.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4835.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4835.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4836.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4836.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4837.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4837.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4838.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4838.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4839.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4839.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4840.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4840.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4841.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4841.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4842.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4842.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4843.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4843.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4844.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4844.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4845.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4845.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4846.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4846.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4847.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4847.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4848.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4848.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4849.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4849.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4850.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4850.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4851.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4851.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4852.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4852.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4853.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4853.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4854.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4854.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4855.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4855.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4856.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4856.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4857.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4857.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4858.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4858.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4859.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4859.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4860.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4860.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4861.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4861.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4862.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4862.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4863.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4863.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4864.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4864.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4865.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4865.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4866.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4866.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4867.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4867.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4868.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4868.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4869.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4869.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4870.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4870.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4871.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4871.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4872.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4872.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4873.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4873.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4874.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4874.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4875.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4875.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4876.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4876.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4877.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4877.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4878.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4878.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4879.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4879.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4880.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4880.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4881.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4881.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4882.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4882.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4883.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4883.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4884.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4884.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4885.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4885.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4886.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4886.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4887.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4887.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4888.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4888.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4889.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4889.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4890.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4890.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4891.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4891.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4892.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4892.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4893.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4893.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4894.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4894.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4895.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4895.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4898.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4898.JPG
+KEPT $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\Agra\SAM_4899.JPG $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\Agra\SAM_4899.JPG

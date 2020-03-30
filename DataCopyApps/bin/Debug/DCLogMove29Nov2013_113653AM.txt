@@ -1,0 +1,295 @@
+Start at : 29/11/2013 11:36:51 AM - End at : 29/11/2013 11:36:53 AM
+MATCHED $ d:\_builds\IntranetNew\image_default\wizard_startbutton.gif $ E:\_Builds\IntranetNew\image_default\wizard_startbutton.gif
+DELETED $ d:\_builds\IntranetNew\image_default\wizard_startbutton.gif
+MATCHED $ d:\_builds\IntranetNew\image_default\wizard_startbuttonbg.gif $ E:\_Builds\IntranetNew\image_default\wizard_startbuttonbg.gif
+DELETED $ d:\_builds\IntranetNew\image_default\wizard_startbuttonbg.gif
+MATCHED $ d:\_builds\IntranetNew\image_default\wizard_startbuttonleft.gif $ E:\_Builds\IntranetNew\image_default\wizard_startbuttonleft.gif
+DELETED $ d:\_builds\IntranetNew\image_default\wizard_startbuttonleft.gif
+MATCHED $ d:\_builds\IntranetNew\image_default\wizard_startbuttonright.gif $ E:\_Builds\IntranetNew\image_default\wizard_startbuttonright.gif
+DELETED $ d:\_builds\IntranetNew\image_default\wizard_startbuttonright.gif
+MATCHED $ d:\_builds\IntranetNew\image_default\wizard_toptile.gif $ E:\_Builds\IntranetNew\image_default\wizard_toptile.gif
+DELETED $ d:\_builds\IntranetNew\image_default\wizard_toptile.gif
+MATCHED $ d:\_builds\IntranetNew\image_default\_new.gif $ E:\_Builds\IntranetNew\image_default\_new.gif
+DELETED $ d:\_builds\IntranetNew\image_default\_new.gif
+MATCHED $ d:\_builds\IntranetNew\Resources\style.css $ E:\_Builds\IntranetNew\Resources\style.css
+DELETED $ d:\_builds\IntranetNew\Resources\style.css
+MATCHED $ d:\_builds\IntranetNew\Resources\StyleSheet.css $ E:\_Builds\IntranetNew\Resources\StyleSheet.css
+DELETED $ d:\_builds\IntranetNew\Resources\StyleSheet.css
+MATCHED $ d:\_builds\IntranetNew\Resources\StyleSheet1.css $ E:\_Builds\IntranetNew\Resources\StyleSheet1.css
+DELETED $ d:\_builds\IntranetNew\Resources\StyleSheet1.css
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cal\Calendar.css $ E:\_Builds\IntranetNew\TimeAndAttendance\Cal\Calendar.css
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cal\Calendar.css
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cal\Calendar.js $ E:\_Builds\IntranetNew\TimeAndAttendance\Cal\Calendar.js
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cal\Calendar.js
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cal\Info.txt $ E:\_Builds\IntranetNew\TimeAndAttendance\Cal\Info.txt
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cal\Info.txt
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\AddLeaveMaster.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\AddLeaveMaster.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\AddLeaveMaster.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\AddWorkingDays.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\AddWorkingDays.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\AddWorkingDays.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\AdminPanel.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\AdminPanel.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\AdminPanel.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\DeleteHolidayDate.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\DeleteHolidayDate.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\DeleteHolidayDate.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\EditDeleteHolidayType.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\EditDeleteHolidayType.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\EditDeleteHolidayType.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\EditDeleteLeaveMaster.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\EditDeleteLeaveMaster.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\EditDeleteLeaveMaster.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\footer.ascx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\footer.ascx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\footer.ascx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\Header.ascx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\Header.ascx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\Header.ascx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\Logout.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\Logout.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\Logout.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\ManagerAdmin.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\ManagerAdmin.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\ManagerAdmin.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\StyleSheet.css $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\StyleSheet.css
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\StyleSheet.css
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\UserList.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Cpanel\UserList.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Cpanel\UserList.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btnapplyforleave.jpg $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\btnapplyforleave.jpg
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btnapplyforleave.jpg
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btnCancelImage.JPG $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\btnCancelImage.JPG
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btnCancelImage.JPG
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btnMarkAttendance.jpg $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\btnMarkAttendance.jpg
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btnMarkAttendance.jpg
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btn_logout.jpg $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\btn_logout.jpg
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\btn_logout.jpg
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\bullet1.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\bullet1.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\bullet1.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\cal.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\cal.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\cal.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\deleteicon.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\deleteicon.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\deleteicon.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\editicon.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\editicon.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\editicon.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\leaveStatusBox.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\leaveStatusBox.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\leaveStatusBox.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\leaveStatusBox_bottom.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\leaveStatusBox_bottom.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\leaveStatusBox_bottom.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\login.jpg $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\login.jpg
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\login.jpg
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\ReferenceBox.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\ReferenceBox.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\ReferenceBox.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\ReferenceBox_bottom.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\ReferenceBox_bottom.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\ReferenceBox_bottom.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\save.jpg $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\save.jpg
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\save.jpg
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\Thumbs.db $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\Thumbs.db
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\Thumbs.db
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\TopStrip.gif $ E:\_Builds\IntranetNew\TimeAndAttendance\Images\TopStrip.gif
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Images\TopStrip.gif
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\CalendarControl.ascx $ E:\_Builds\IntranetNew\TimeAndAttendance\CalendarControl.ascx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\CalendarControl.ascx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\CalendarPage.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\CalendarPage.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\CalendarPage.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\CancelLeave.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\CancelLeave.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\CancelLeave.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\datetimepicker.js $ E:\_Builds\IntranetNew\TimeAndAttendance\datetimepicker.js
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\datetimepicker.js
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Default2.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Default2.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Default2.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\EditableCalendar.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\EditableCalendar.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\EditableCalendar.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\EditCalendarControl.ascx $ E:\_Builds\IntranetNew\TimeAndAttendance\EditCalendarControl.ascx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\EditCalendarControl.ascx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\footer.ASCX $ E:\_Builds\IntranetNew\TimeAndAttendance\footer.ASCX
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\footer.ASCX
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Header.ascx $ E:\_Builds\IntranetNew\TimeAndAttendance\Header.ascx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Header.ascx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Header1.ascx $ E:\_Builds\IntranetNew\TimeAndAttendance\Header1.ascx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Header1.ascx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\leaveStatusBox.ASCX $ E:\_Builds\IntranetNew\TimeAndAttendance\leaveStatusBox.ASCX
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\leaveStatusBox.ASCX
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\LeaveTracking.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\LeaveTracking.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\LeaveTracking.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Logout.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Logout.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Logout.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\lstatusAsOndateTable.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\lstatusAsOndateTable.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\lstatusAsOndateTable.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Manager.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Manager.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Manager.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\MarkAttendance.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\MarkAttendance.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\MarkAttendance.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\ModifyTime.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\ModifyTime.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\ModifyTime.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\StyleSheet.css $ E:\_Builds\IntranetNew\TimeAndAttendance\StyleSheet.css
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\StyleSheet.css
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\SubLogin.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\SubLogin.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\SubLogin.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\Supervisor.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\Supervisor.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\Supervisor.aspx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\timeRefrenceBox.ascx $ E:\_Builds\IntranetNew\TimeAndAttendance\timeRefrenceBox.ascx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\timeRefrenceBox.ascx
+MATCHED $ d:\_builds\IntranetNew\TimeAndAttendance\User1.aspx $ E:\_Builds\IntranetNew\TimeAndAttendance\User1.aspx
+DELETED $ d:\_builds\IntranetNew\TimeAndAttendance\User1.aspx
+MATCHED $ d:\_builds\IntranetNew\Training\SQL_Server_2005.txt $ E:\_Builds\IntranetNew\Training\SQL_Server_2005.txt
+DELETED $ d:\_builds\IntranetNew\Training\SQL_Server_2005.txt
+MATCHED $ d:\_builds\IntranetNew\Training\Training_Test.html $ E:\_Builds\IntranetNew\Training\Training_Test.html
+DELETED $ d:\_builds\IntranetNew\Training\Training_Test.html
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddDepartDetail.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddDepartDetail.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddDepartDetail.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddDepartment.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddDepartment.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddDepartment.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddDepartmentPage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddDepartmentPage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddDepartmentPage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddDepartPage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddDepartPage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddDepartPage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddEventDetail.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddEventDetail.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddEventDetail.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddEventIcon.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddEventIcon.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddEventIcon.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddEventPage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddEventPage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddEventPage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddForumDetail.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddForumDetail.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddForumDetail.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddForumPage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddForumPage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddForumPage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddMeetingDetail.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddMeetingDetail.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddMeetingDetail.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddMeetingPage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddMeetingPage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddMeetingPage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddNewsDetail.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddNewsDetail.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddNewsDetail.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddNewsPage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddNewsPage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddNewsPage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddPeopledetail.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddPeopledetail.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddPeopledetail.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddPeoplePage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddPeoplePage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddPeoplePage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddTrainingCateDetail.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddTrainingCateDetail.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddTrainingCateDetail.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\AddTrainingCatePage.aspx $ E:\_Builds\IntranetNew\UserAdmin\AddTrainingCatePage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\AddTrainingCatePage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\CompInfo.aspx $ E:\_Builds\IntranetNew\UserAdmin\CompInfo.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\CompInfo.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\Default.aspx $ E:\_Builds\IntranetNew\UserAdmin\Default.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\Default.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\HeaderHomePage.ascx $ E:\_Builds\IntranetNew\UserAdmin\HeaderHomePage.ascx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\HeaderHomePage.ascx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\Location.aspx $ E:\_Builds\IntranetNew\UserAdmin\Location.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\Location.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\LocationPage.aspx $ E:\_Builds\IntranetNew\UserAdmin\LocationPage.aspx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\LocationPage.aspx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\styles.css $ E:\_Builds\IntranetNew\UserAdmin\styles.css
+DELETED $ d:\_builds\IntranetNew\UserAdmin\styles.css
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\Useradmincontrol.ascx $ E:\_Builds\IntranetNew\UserAdmin\Useradmincontrol.ascx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\Useradmincontrol.ascx
+MATCHED $ d:\_builds\IntranetNew\UserAdmin\UserAdminleftmenu.ascx $ E:\_Builds\IntranetNew\UserAdmin\UserAdminleftmenu.ascx
+DELETED $ d:\_builds\IntranetNew\UserAdmin\UserAdminleftmenu.ascx
+MATCHED $ d:\_builds\IntranetNew\addreservation.aspx $ E:\_Builds\IntranetNew\addreservation.aspx
+DELETED $ d:\_builds\IntranetNew\addreservation.aspx
+MATCHED $ d:\_builds\IntranetNew\cal.gif $ E:\_Builds\IntranetNew\cal.gif
+DELETED $ d:\_builds\IntranetNew\cal.gif
+MATCHED $ d:\_builds\IntranetNew\Calendar.aspx $ E:\_Builds\IntranetNew\Calendar.aspx
+DELETED $ d:\_builds\IntranetNew\Calendar.aspx
+MATCHED $ d:\_builds\IntranetNew\Calendar.css $ E:\_Builds\IntranetNew\Calendar.css
+DELETED $ d:\_builds\IntranetNew\Calendar.css
+MATCHED $ d:\_builds\IntranetNew\Calendar1.aspx $ E:\_Builds\IntranetNew\Calendar1.aspx
+DELETED $ d:\_builds\IntranetNew\Calendar1.aspx
+MATCHED $ d:\_builds\IntranetNew\CalendarControl.ascx $ E:\_Builds\IntranetNew\CalendarControl.ascx
+DELETED $ d:\_builds\IntranetNew\CalendarControl.ascx
+MATCHED $ d:\_builds\IntranetNew\changePassword.aspx $ E:\_Builds\IntranetNew\changePassword.aspx
+DELETED $ d:\_builds\IntranetNew\changePassword.aspx
+MATCHED $ d:\_builds\IntranetNew\ContactBoxes.ascx $ E:\_Builds\IntranetNew\ContactBoxes.ascx
+DELETED $ d:\_builds\IntranetNew\ContactBoxes.ascx
+MATCHED $ d:\_builds\IntranetNew\ContactInfo.aspx $ E:\_Builds\IntranetNew\ContactInfo.aspx
+DELETED $ d:\_builds\IntranetNew\ContactInfo.aspx
+MATCHED $ d:\_builds\IntranetNew\datetimepicker.js $ E:\_Builds\IntranetNew\datetimepicker.js
+DELETED $ d:\_builds\IntranetNew\datetimepicker.js
+MATCHED $ d:\_builds\IntranetNew\Default.aspx $ E:\_Builds\IntranetNew\Default.aspx
+DELETED $ d:\_builds\IntranetNew\Default.aspx
+MATCHED $ d:\_builds\IntranetNew\DepartmentPage.aspx $ E:\_Builds\IntranetNew\DepartmentPage.aspx
+DELETED $ d:\_builds\IntranetNew\DepartmentPage.aspx
+MATCHED $ d:\_builds\IntranetNew\directory.aspx $ E:\_Builds\IntranetNew\directory.aspx
+DELETED $ d:\_builds\IntranetNew\directory.aspx
+MATCHED $ d:\_builds\IntranetNew\directorypage.aspx $ E:\_Builds\IntranetNew\directorypage.aspx
+DELETED $ d:\_builds\IntranetNew\directorypage.aspx
+MATCHED $ d:\_builds\IntranetNew\EditCompanyInfo.aspx $ E:\_Builds\IntranetNew\EditCompanyInfo.aspx
+DELETED $ d:\_builds\IntranetNew\EditCompanyInfo.aspx
+MATCHED $ d:\_builds\IntranetNew\editReservation.aspx $ E:\_Builds\IntranetNew\editReservation.aspx
+DELETED $ d:\_builds\IntranetNew\editReservation.aspx
+MATCHED $ d:\_builds\IntranetNew\global.css $ E:\_Builds\IntranetNew\global.css
+DELETED $ d:\_builds\IntranetNew\global.css
+MATCHED $ d:\_builds\IntranetNew\HeaderHome.ascx $ E:\_Builds\IntranetNew\HeaderHome.ascx
+DELETED $ d:\_builds\IntranetNew\HeaderHome.ascx
+MATCHED $ d:\_builds\IntranetNew\HeaderHomePage.ascx $ E:\_Builds\IntranetNew\HeaderHomePage.ascx
+DELETED $ d:\_builds\IntranetNew\HeaderHomePage.ascx
+MATCHED $ d:\_builds\IntranetNew\Home.aspx $ E:\_Builds\IntranetNew\Home.aspx
+DELETED $ d:\_builds\IntranetNew\Home.aspx
+MATCHED $ d:\_builds\IntranetNew\homeboxes.ascx $ E:\_Builds\IntranetNew\homeboxes.ascx
+DELETED $ d:\_builds\IntranetNew\homeboxes.ascx
+MATCHED $ d:\_builds\IntranetNew\HomePage.aspx $ E:\_Builds\IntranetNew\HomePage.aspx
+DELETED $ d:\_builds\IntranetNew\HomePage.aspx
+MATCHED $ d:\_builds\IntranetNew\HomePagebox.ascx $ E:\_Builds\IntranetNew\HomePagebox.ascx
+DELETED $ d:\_builds\IntranetNew\HomePagebox.ascx
+MATCHED $ d:\_builds\IntranetNew\homePageLeftControl.ascx $ E:\_Builds\IntranetNew\homePageLeftControl.ascx
+DELETED $ d:\_builds\IntranetNew\homePageLeftControl.ascx
+MATCHED $ d:\_builds\IntranetNew\HomePageLeftMenu.ascx $ E:\_Builds\IntranetNew\HomePageLeftMenu.ascx
+DELETED $ d:\_builds\IntranetNew\HomePageLeftMenu.ascx
+MATCHED $ d:\_builds\IntranetNew\HomePageRight.ascx $ E:\_Builds\IntranetNew\HomePageRight.ascx
+DELETED $ d:\_builds\IntranetNew\HomePageRight.ascx
+MATCHED $ d:\_builds\IntranetNew\HomePageRightControl.ascx $ E:\_Builds\IntranetNew\HomePageRightControl.ascx
+DELETED $ d:\_builds\IntranetNew\HomePageRightControl.ascx
+MATCHED $ d:\_builds\IntranetNew\login.aspx.resx $ E:\_Builds\IntranetNew\login.aspx.resx
+DELETED $ d:\_builds\IntranetNew\login.aspx.resx
+MATCHED $ d:\_builds\IntranetNew\loginchange.aspx $ E:\_Builds\IntranetNew\loginchange.aspx
+DELETED $ d:\_builds\IntranetNew\loginchange.aspx
+MATCHED $ d:\_builds\IntranetNew\logout.aspx $ E:\_Builds\IntranetNew\logout.aspx
+DELETED $ d:\_builds\IntranetNew\logout.aspx
+MATCHED $ d:\_builds\IntranetNew\MainForumAddTopic.aspx $ E:\_Builds\IntranetNew\MainForumAddTopic.aspx
+DELETED $ d:\_builds\IntranetNew\MainForumAddTopic.aspx
+MATCHED $ d:\_builds\IntranetNew\mainforumpage.aspx $ E:\_Builds\IntranetNew\mainforumpage.aspx
+DELETED $ d:\_builds\IntranetNew\mainforumpage.aspx
+MATCHED $ d:\_builds\IntranetNew\MainForumPage01.aspx $ E:\_Builds\IntranetNew\MainForumPage01.aspx
+DELETED $ d:\_builds\IntranetNew\MainForumPage01.aspx
+MATCHED $ d:\_builds\IntranetNew\MainForumPage1.aspx $ E:\_Builds\IntranetNew\MainForumPage1.aspx
+DELETED $ d:\_builds\IntranetNew\MainForumPage1.aspx
+MATCHED $ d:\_builds\IntranetNew\MeetingHome.aspx $ E:\_Builds\IntranetNew\MeetingHome.aspx
+DELETED $ d:\_builds\IntranetNew\MeetingHome.aspx
+MATCHED $ d:\_builds\IntranetNew\PostReply1.aspx $ E:\_Builds\IntranetNew\PostReply1.aspx
+DELETED $ d:\_builds\IntranetNew\PostReply1.aspx
+MATCHED $ d:\_builds\IntranetNew\PrecompiledApp.config $ E:\_Builds\IntranetNew\PrecompiledApp.config
+DELETED $ d:\_builds\IntranetNew\PrecompiledApp.config
+MATCHED $ d:\_builds\IntranetNew\SiteMap.aspx $ E:\_Builds\IntranetNew\SiteMap.aspx
+DELETED $ d:\_builds\IntranetNew\SiteMap.aspx
+MATCHED $ d:\_builds\IntranetNew\style.css $ E:\_Builds\IntranetNew\style.css
+DELETED $ d:\_builds\IntranetNew\style.css
+MATCHED $ d:\_builds\IntranetNew\styles.css $ E:\_Builds\IntranetNew\styles.css
+DELETED $ d:\_builds\IntranetNew\styles.css
+MATCHED $ d:\_builds\IntranetNew\StyleSheet.css $ E:\_Builds\IntranetNew\StyleSheet.css
+DELETED $ d:\_builds\IntranetNew\StyleSheet.css
+MATCHED $ d:\_builds\IntranetNew\trainingPage.aspx $ E:\_Builds\IntranetNew\trainingPage.aspx
+DELETED $ d:\_builds\IntranetNew\trainingPage.aspx
+MATCHED $ d:\_builds\IntranetNew\TrainingPage1.aspx $ E:\_Builds\IntranetNew\TrainingPage1.aspx
+DELETED $ d:\_builds\IntranetNew\TrainingPage1.aspx
+MATCHED $ d:\_builds\IntranetNew\TrainingPageDetail.aspx $ E:\_Builds\IntranetNew\TrainingPageDetail.aspx
+DELETED $ d:\_builds\IntranetNew\TrainingPageDetail.aspx
+MATCHED $ d:\_builds\IntranetNew\ve-15.tmp $ E:\_Builds\IntranetNew\ve-15.tmp
+DELETED $ d:\_builds\IntranetNew\ve-15.tmp
+MATCHED $ d:\_builds\PagesChanges\PageDescState.aspx $ E:\_Builds\PagesChanges\PageDescState.aspx
+DELETED $ d:\_builds\PagesChanges\PageDescState.aspx
+MATCHED $ d:\_builds\RahulFinancing\Controls\Left.ascx $ E:\_Builds\RahulFinancing\Controls\Left.ascx
+DELETED $ d:\_builds\RahulFinancing\Controls\Left.ascx
+MATCHED $ d:\_builds\RahulFinancing\GeneralIns.aspx $ E:\_Builds\RahulFinancing\GeneralIns.aspx
+DELETED $ d:\_builds\RahulFinancing\GeneralIns.aspx
+MATCHED $ d:\_builds\RahulFinancing\HealthIns.aspx $ E:\_Builds\RahulFinancing\HealthIns.aspx
+DELETED $ d:\_builds\RahulFinancing\HealthIns.aspx
+MATCHED $ d:\_builds\RahulFinancing\IncomeTax.aspx $ E:\_Builds\RahulFinancing\IncomeTax.aspx
+DELETED $ d:\_builds\RahulFinancing\IncomeTax.aspx
+MATCHED $ d:\_builds\RahulFinancing\LIC.aspx $ E:\_Builds\RahulFinancing\LIC.aspx
+DELETED $ d:\_builds\RahulFinancing\LIC.aspx
+MATCHED $ d:\_builds\RahulFinancing\PrecompiledApp.config $ E:\_Builds\RahulFinancing\PrecompiledApp.config
+DELETED $ d:\_builds\RahulFinancing\PrecompiledApp.config
+MATCHED $ d:\_builds\RahulFinancing\Queries.aspx $ E:\_Builds\RahulFinancing\Queries.aspx
+DELETED $ d:\_builds\RahulFinancing\Queries.aspx
+MATCHED $ d:\_builds\RahulFinancing\web.config $ E:\_Builds\RahulFinancing\web.config
+DELETED $ d:\_builds\RahulFinancing\web.config
+MATCHED $ d:\_builds\Rekhathediva.com\FileChanged.txt $ E:\_Builds\Rekhathediva.com\FileChanged.txt
+DELETED $ d:\_builds\Rekhathediva.com\FileChanged.txt
+MATCHED $ d:\_builds\Rekhathediva.com\FileChanged_Copy(1).txt $ E:\_Builds\Rekhathediva.com\FileChanged_Copy(1).txt
+DELETED $ d:\_builds\Rekhathediva.com\FileChanged_Copy(1).txt
+MATCHED $ d:\_builds\Rekhathediva.com\FileChanged_Copy(1)_Copy(2).txt $ E:\_Builds\Rekhathediva.com\FileChanged_Copy(1)_Copy(2).txt
+DELETED $ d:\_builds\Rekhathediva.com\FileChanged_Copy(1)_Copy(2).txt
+MATCHED $ d:\_builds\IntranetNew.rar $ E:\_Builds\IntranetNew.rar
+DELETED $ d:\_builds\IntranetNew.rar

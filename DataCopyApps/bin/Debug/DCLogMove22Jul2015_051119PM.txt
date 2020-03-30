@@ -1,0 +1,30 @@
+Start at : 22-Jul-15 5:06:35 PM - End at : 22-Jul-15 5:06:35 PM - Aborted at : 22-Jul-15 5:11:19 PM
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\2011-07-02 21.05.09.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\2011-07-02 21.05.09.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0339.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0339.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0343.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0343.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0344.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0344.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0345.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0345.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0346.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0346.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0347.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0347.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0348.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0348.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0349.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0349.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0350.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0350.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0352.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0352.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0353.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0353.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0354.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0354.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0355.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0355.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0355_1.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0355_1.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0356.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0356.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0357.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0357.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0358.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0358.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0359.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0359.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0361.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0361.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0362.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0362.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0363.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0363.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0364.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0364.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0365.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0365.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0366.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0366.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0367.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0367.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0368.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0368.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\IMAG0369.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\IMAG0369.jpg
+MATCHED $ I:\Samsung Galaxy S\_Internal SD Card FullBackup_14Jul2012\Images\India gate\Photo0152.jpg $ I:\Samsung Galaxy SIII\SDCard 16-64 GB\My Data\Images\India gate\Photo0152.jpg

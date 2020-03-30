@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataCopyApps
+</name>
+</assembly>
+<members>
+<member name="P:DataCopyApps.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DataCopyApps.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DataCopyApps.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DataCopyApps.FileWrite.ReadFile(System.String)">
+	<summary>
+ TO READ A FILE
+ </summary>
+	<param name="Str"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DataCopyApps.clsFileHandling.OpenFile(System.String)">
+	<summary>
+ TO OPEN A FILE TO WRITE USING WRITEFILE FUNCTION
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DataCopyApps.clsFileHandling.WriteFile(System.String)">
+	<summary>
+ TO WRITE A FILE. AFTER WRITING THE FILE USE CLOSEFILE!
+ </summary>
+	<param name="Str"></param>
+	<remarks></remarks>
+</member><member name="M:DataCopyApps.clsFileHandling.CloseFile(System.Boolean)">
+	<summary>
+ TO CLOSE THE FILE OPENED BY OPENFILE FUNCTION
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DataCopyApps.clsFileHandling.ReadFile(System.String)">
+	<summary>
+ TO READ A FILE
+ </summary>
+	<param name="Str"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:DataCopyApps.clsFileHandling">
+	<summary>
+ CLASS TO HANDEL TEXT FILE OPERATIONS LIKE - OPEN,CLOSE AND WRITE
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

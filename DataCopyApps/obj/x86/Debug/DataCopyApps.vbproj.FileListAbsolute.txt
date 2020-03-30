@@ -1,0 +1,14 @@
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\bin\Debug\DataCopyApps.exe
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\bin\Debug\DataCopyApps.pdb
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\bin\Debug\DataCopyApps.xml
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.frmDataCopy.resources
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.Resources.resources
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.exe
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.xml
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.pdb
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.exe
+E:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.xml
+E:\Narender\Projects\VB.NET\2010\DataCopyApps\DataCopyApps\obj\x86\Debug\DataCopyApps.pdb
