@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataCopyApps", "DataCopyApps\DataCopyApps.vbproj", "{DBFC3CDB-74E9-4373-A45B-401D3895EFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFC3CDB-74E9-4373-A45B-401D3895EFC3}.Debug|x86.ActiveCfg = Debug|x86
+		{DBFC3CDB-74E9-4373-A45B-401D3895EFC3}.Debug|x86.Build.0 = Debug|x86
+		{DBFC3CDB-74E9-4373-A45B-401D3895EFC3}.Release|x86.ActiveCfg = Release|x86
+		{DBFC3CDB-74E9-4373-A45B-401D3895EFC3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
